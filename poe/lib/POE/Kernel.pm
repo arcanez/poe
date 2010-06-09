@@ -3033,7 +3033,7 @@ applications, such as Padre.
 
 =head3 POE::XS::Loop::EPoll (separate distribution)
 
-L<POE::Loop::EPoll> allows POE components to transparently use the
+L<POE::XS::Loop::EPoll> allows POE components to transparently use the
 EPoll event library on operating systems that support it.
 
 =head3 POE::XS::Loop::Poll (separate distribution)
